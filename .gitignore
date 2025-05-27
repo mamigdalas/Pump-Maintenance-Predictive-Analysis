@@ -1,0 +1,14 @@
+# Python specific ignores
+*.pyc
+__pycache__/
+.ipynb_checkpoints/ # If you used Jupyter notebooks
+.pytest_cache/
+venv/ # If you create a virtual environment here
+.env # Environment variables
+*.log
+*.pickle
+*.pkl
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
